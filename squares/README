@@ -1,1 +1,20 @@
-ss
+<squares.c>
+
+**** this c file shows the result of the movement of one square ****
+
+1. getting two input integers from users, it shows two squares with each side (integer size)
+
+ex) if size1 = 9, size2 = 3 -> it shows the two squares each using '#' and '*'
+
+2. getting two offset integers from users (x_offset & y_offset), it shows the result of the movements of the second square(size2)
+
+ex) if x_offset = 1, y_offset = 1 -> it shows the result of the size2 square moved 'one side' in x-axis and y-axis
+
+ex) this is the result of size1 = 4, size2 = 3, x_offset = 1, y_offset = 2
+
+####
+#  #
+#***
+#*#*
+ ***
+ 
