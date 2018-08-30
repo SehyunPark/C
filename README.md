@@ -1,5 +1,7 @@
 # C
 
+There's a README in each directory explaining codes & execution
+
 < 1. Find_max : Finding max integers between two integers >
 
 < 2. Encryption : Encrypting letters in the input file using a key variable>
