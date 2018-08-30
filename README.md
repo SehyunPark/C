@@ -1,8 +1,8 @@
 # C-programming
 
-These are the list of projects(including small assignments) I've done since 2016.
+These are the list of projects(including small assignments) I've completed.
 
-The order of the list is updated every time the new projects(assignments) are completed.
+The list is updated every time the new projects(assignments) are completed.
 
 < 1. Find_max : Finding max integers between two integers >
 
